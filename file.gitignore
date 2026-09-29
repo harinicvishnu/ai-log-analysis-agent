@@ -1,0 +1,12 @@
+_pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+
+# Ignore real/private log files
+logs/*.log
+!logs/sample.log
