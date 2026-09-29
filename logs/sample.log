@@ -1,0 +1,10 @@
+2026-09-29 10:20:01 INFO Application started successfully
+2026-09-29 10:20:05 INFO Loading configuration
+2026-09-29 10:20:07 INFO Database connection established
+2026-09-29 10:21:34 ERROR Database connection timeout
+2026-09-29 10:21:35 INFO Retrying database connection
+2026-09-29 10:21:40 WARN API response time exceeded threshold
+2026-09-29 10:22:02 ERROR Login service returned HTTP 500
+2026-09-29 10:22:05 INFO Login service retry started
+2026-09-29 10:22:09 ERROR Database connection failed
+2026-09-29 10:22:15 INFO Application recovered
